@@ -33,7 +33,9 @@ class WhoAmI:
     
     def get_location():
         return Matara , Sri Lanka
-    
-    def ambitions():
-        be_a_pro_developer()
-        contribute_to_open_source()
+
+ ```
+ 
+## Current Works
+ * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Also, I've got a **LinkedIn, [Banula P](https://www.linkedin.com/in/banula-p-46b601401/)**. Be sure to check it out as I keep posting Contents about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
